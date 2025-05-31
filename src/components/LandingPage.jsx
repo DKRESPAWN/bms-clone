@@ -16,9 +16,9 @@ export const LandingPage = () => {
             {/* Logo and Search */}
             <div className="flex items-center space-x-6 flex-1">
               <div className="flex items-center">
-                <span className="text-2xl font-bold">book</span>
-                <span className="text-2xl font-bold text-red-500">my</span>
-                <span className="text-2xl font-bold">show</span>
+                <span className="text-2xl font-bold">Connektra</span>
+                {/* <span className="text-2xl font-bold text-red-500">my</span>
+                <span className="text-2xl font-bold">show</span> */}
               </div>
 
               <div className="relative flex-1 max-w-lg">
